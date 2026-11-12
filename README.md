@@ -40,7 +40,12 @@ February 2023 – October 2023
 - English: C1
 - Italian: B1
 
-### Featured Project
+### Projects
+
+### Projects
+
+- **[WordPlus](https://joseangelchacing.github.io/wordplus/)** — A Wordle-inspired word game. [Source code](https://github.com/joseangelchacing/wordplus).
+- **[Faster Washing & Reduced Soap Consumption](https://github.com/joseangelchacing/FasterWashingReducedSoap)** — A configurable Project Zomboid Build 42 mod, written in Lua.
 
 **[Faster Washing & Reduced Soap Consumption](https://github.com/joseangelchacing/FasterWashingReducedSoap)**
 
