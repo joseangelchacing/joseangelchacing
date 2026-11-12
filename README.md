@@ -40,6 +40,17 @@ February 2023 – October 2023
 - English: C1
 - Italian: B1
 
+### Featured Project
+
+**[Faster Washing & Reduced Soap Consumption](https://github.com/joseangelchacing/FasterWashingReducedSoap)**
+
+A configurable Project Zomboid Build 42 mod that reduces clothing and personal washing time and adjusts solid soap and liquid cleaner consumption through Sandbox Options.
+
+- Developed in Lua.
+- Tested in multiplayer, including soap state during inventory transfers.
+- [View the source code](https://github.com/joseangelchacing/FasterWashingReducedSoap)
+
+
 ### Contact
 
 - [LinkedIn](https://linkedin.com/in/joseangelchacing)
